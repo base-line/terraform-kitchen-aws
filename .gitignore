@@ -1,0 +1,6 @@
+.terraform
+Gemfile.lock
+*.pem
+*.tfstate*
+.kitchen
+.vagrant
